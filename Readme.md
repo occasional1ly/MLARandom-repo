@@ -138,4 +138,4 @@ Step4. 统计信息如下 (reorderEngine.py:484)
 ```
 
 ### Repository
-This project is developed based on Binutils. The project is located at https://ftp.gnu.org/gnu/binutils/, and the unofficial fork repository is located at https://github.com/bminor/binutils-gdb.
+This project is developed based on Binutils. The project is located at https://ftp.gnu.org/gnu/binutils/, and the unofficial fork repository is located at https://github.com/bminor/binutils-gdb
